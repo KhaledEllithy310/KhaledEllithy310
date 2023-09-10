@@ -1,7 +1,6 @@
 - 👋 Hi, I’m KhaledEllithy
 - 🌱 I’m currently learning JavaScript, Angular
 - 🌱 I’m currently learning NodeJS, MongoDB
-- 🌱 I’m currently learning PHP, Laravel
 - 📫 How to reach me khaledellessy310@gmail.com
 
 <!---
